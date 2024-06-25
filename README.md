@@ -1,2 +1,2 @@
 # hf
-this is the repo to store hugging face models
+this is the repo for Hyperspectral imaging integration with Googlr maps
